@@ -24,7 +24,7 @@ __Note:__ Installing software is dreaded even by seasoned developers, if you hav
 Software engineers routinely have to work with different versions of language in development and testing environments depending on the application.
 
 ###Recommendations
-- [chruby](https://github.com/postmodern/chruby) or [rbenv](https://github.com/sstephenson/rbenv) for Ruby management. RVM is no longer preferred. (If RVM is no longer preferred, we should update line 13 which instructs people to install RVM.)
+- [chruby](https://github.com/postmodern/chruby) or [rbenv](https://github.com/sstephenson/rbenv) for Ruby management. RVM is no longer preferred.
 - [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) are preferred for Python  
 - [nvm](https://github.com/creationix/nvm) for JavaScript/NodeJS
 
